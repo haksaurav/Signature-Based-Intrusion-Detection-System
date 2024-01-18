@@ -5,6 +5,11 @@
 
 
 
+## References
+1. Kumar, Indrajeet & Mohd, Noor & Bhatt, Chandradeep & Sharma, Shashi. (2020). Development of IDS Using Supervised Machine Learning. 10.1007/978-981-15-4032-5_52. 
+
+
+
 
 
 
